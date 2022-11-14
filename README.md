@@ -3,7 +3,7 @@
 ## Description:
 Converts images into ASCII
 
-## Prerequisite for v2:
+## Prerequisites:
 [Python (preferably 3.9 or above)](https://www.python.org/downloads/)  
 Run `pip install -r requirements.txt` in a terminal to install the package requirements. <br>
 
